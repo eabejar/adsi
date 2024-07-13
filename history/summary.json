@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 99,
-    "timeWeek": 112,
-    "timeMonth": 110,
-    "timeYear": 110,
+    "time": 108,
+    "timeDay": 87,
+    "timeWeek": 113,
+    "timeMonth": 108,
+    "timeYear": 108,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 200,
-    "timeWeek": 215,
-    "timeMonth": 198,
-    "timeYear": 198,
+    "time": 184,
+    "timeDay": 47,
+    "timeWeek": 195,
+    "timeMonth": 184,
+    "timeYear": 184,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 357,
-    "timeWeek": 318,
-    "timeMonth": 298,
-    "timeYear": 298,
+    "time": 282,
+    "timeDay": 121,
+    "timeWeek": 275,
+    "timeMonth": 282,
+    "timeYear": 282,
     "dailyMinutesDown": {}
   },
   {
@@ -78,18 +78,16 @@
     "slug": "i-pv6-test",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 959,
-    "timeDay": 609,
-    "timeWeek": 697,
-    "timeMonth": 959,
-    "timeYear": 959,
-    "dailyMinutesDown": {
-      "2024-07-12": 9
-    }
+    "time": 898,
+    "timeDay": 316,
+    "timeWeek": 606,
+    "timeMonth": 898,
+    "timeYear": 898,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PUCE",
@@ -108,7 +106,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-12": 1230,
+      "2024-07-13": 71,
+      "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
