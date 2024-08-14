@@ -76,7 +76,7 @@
     "url": "forwardemail.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-pv6-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -88,6 +88,7 @@
     "timeMonth": 732,
     "timeYear": 780,
     "dailyMinutesDown": {
+      "2024-08-14": 0,
       "2024-07-28": 60
     }
   },
@@ -108,7 +109,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-14": 73,
+      "2024-08-14": 661,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
